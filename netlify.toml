@@ -1,2 +1,2 @@
 [build]
-    command = "./main"
+    command = "go run main.go"
